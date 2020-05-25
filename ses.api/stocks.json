@@ -1,0 +1,92 @@
+[
+    {
+      "stockId": "c94b2d39-3f1c-46d5-9673-62865fa3b99f",
+      "currency": "USD",
+      "ric": "0388.NYSE",
+      "bloombergTicker": "TCBKUSD",
+      "bloombergTickerLocal": "#### USD",
+      "name": "USA Exchanges & Clearing Ltd",
+      "country": "Unite States of A",
+      "price": 252.36
+    },
+    {
+      "stockId": "9566837b-dfb0-4754-a752-b97a6ede8c80",
+      "currency": "USD",
+      "ric": "0005.NYSE",
+      "bloombergTicker": "BUINUSD",
+      "bloombergTickerLocal": "#### USD",
+      "name": "BofAML Holdings PLC",
+      "country": "Unite States of A",
+      "price": 295.64
+    },
+    {
+      "stockId": "0e02d8b5-218f-469a-a07e-ce65c5a8c7f6",
+      "currency": "USD",
+      "ric": "0011.NYSE",
+      "bloombergTicker": "8953USD",
+      "bloombergTickerLocal": "#### USD",
+      "name": "CapOne BANK /  USA",
+      "country": "Unite States of A",
+      "price": 62.26
+    },{
+      "stockId": "7f5f0946-1144-472a-b14e-61bb39a7d976",
+      "currency": "USD",
+      "ric": "0434.NYSE",
+      "bloombergTicker": "GDC2USD",
+      "bloombergTickerLocal": "#### USD",
+      "name": "Boyaa Interactive International Ltd",
+      "country": "Unite States of A",
+      "price": 500.24
+    },
+    {
+      "stockId": "cfcb2aab-0ae6-4a9a-8acd-4e931e768553",
+      "currency": "USD",
+      "ric": "3618.NYSE",
+      "bloombergTicker": "CGEDUSD",
+      "bloombergTickerLocal": "#### USD",
+      "name": null,
+      "country": null,
+      "price": 74.63
+    },
+    {
+      "stockId": "27aa3c0b-14c2-4c97-8c03-b47668684e7f",
+      "currency": "USD",
+      "ric": "0399.NYSE",
+      "bloombergTicker": "FETEUSD",
+      "bloombergTickerLocal": "#### USD",
+      "name": "Innovative Pharmaceutical Biot",
+      "country": "Unite States of A",
+      "price": 49.99
+    },
+    {
+      "stockId": "5479cc51-136c-42d0-8d8d-dd3e21eedc3f",
+      "currency": "USD",
+      "ric": "2382.NYSE",
+      "bloombergTicker": "BNJTUSD",
+      "bloombergTickerLocal": "#### USD",
+      "name": "Moonie Optical Technology Group Co Ltd",
+      "country": "Unite States of A",
+      "price": 144.75
+    },
+    {
+      "stockId": "78b4caff-a5dc-4632-8f59-77eaa9f2c468",
+      "currency": "USD",
+      "ric": "2803.NYSE",
+      "bloombergTicker": "EWRWUSD",
+      "bloombergTickerLocal": "#### USD",
+      "name": "Ohio Bedrock Economy ETF",
+      "country": "Unite States of A",
+      "price": 426.15
+    },
+    {
+      "stockId": "50d27647-d21b-4372-9895-2e8d979cfa78",
+      "currency": "USD",
+      "ric": "1250.NYSE",
+      "bloombergTicker": "45EWUSD",
+      "bloombergTickerLocal": "#### USD",
+      "name": "New York Enterprises Clean Energy Group Ltd",
+      "country": "Unite States of A",
+      "price": 327.92
+    }
+  ]
+  

@@ -1,0 +1,13 @@
+
+*/**/node_modules
+
+*/**/dist/bundle.js
+
+*/**/coverage
+/coverage
+
+bak/
+config_temp_removed.txt
+
+ses.api/bin/
+ses.api/obj/
